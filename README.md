@@ -7,7 +7,7 @@
 ![**An image of the pickup1**](images/1.jpg)
 ##### The first image is a traditional audio equaliser bar graph, with different heights representing different volume frequencies. 
 
-![**An image of the pickup1**](images/2.jpg)
+![**An image of the pickup1**](images/3.jpg)
 ##### The second graph is an RGB analogue glow tube, presenting audio frequencies in vertical columns of light emanating from the middle to the sides.
 
 
