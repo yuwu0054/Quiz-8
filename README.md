@@ -4,10 +4,10 @@
 ## Part 1: Imaging Technique Inspiration
 ##### Inspired by audio visualisation technology, I chose two examples of pickups. This artefact visualises invisible audio signals by capturing sound and transforming it into dynamic visual elements. This technique matches the requirement to animate my work using audio track frequencies. Simulating this corresponding effect in p5.js enhances the user interaction experience and explores the connection between sound and vision. 
 
-![**An image of the pickup1**](images/1.png)
+![**An image of the pickup1**](images/1.jpg)
 ##### The first image is a traditional audio equaliser bar graph, with different heights representing different volume frequencies. 
 
-![**An image of the pickup1**](images/1.png)
+![**An image of the pickup1**](images/2.jpg)
 ##### The second graph is an RGB analogue glow tube, presenting audio frequencies in vertical columns of light emanating from the middle to the sides.
 
 
